@@ -77,7 +77,7 @@ function App() {
                           <td>$XXX</td>
                         </tr>
                         <tr>
-                          <th scope="row">4</th>
+                          <th scope="row">5</th>
                           <td>Entrega Final de Proyecto</td>
                           <td>
                             <ul className="list-group">
