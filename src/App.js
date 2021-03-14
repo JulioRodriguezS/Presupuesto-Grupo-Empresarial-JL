@@ -45,6 +45,7 @@ function App() {
                               <li className="list-item">-Validación</li>
                               <li className="list-item">-Observaciones y Posibles Correcciones</li>
                               <li className="list-item">-Definición de fechas para presentación de trabajo/modificaciones</li>
+                              <li className="list-item">*Despues de la planeación inicial, toda caracteristica adicional y no visualizada en el presupuesto tendrá un costo adicional</li>
                             </ul>
                           </td>
                           <td>$XXX</td>
@@ -56,14 +57,28 @@ function App() {
                             <ul className="list-group">
                               <li className="list-item">-Validación</li>
                               <li className="list-item">-Observaciones y Posibles Correcciones</li>
+                              <li className="list-item">-Definición de costo por caracteristicas no visualizadas en el alcance o modificaciones</li>
                               <li className="list-item">-Definición de fechas para presentación de trabajo/modificaciones</li>
                             </ul>
                           </td>
                           <td>$XXX</td>
                         </tr>
                         <tr>
-                          <th scope="row">3</th>
+                          <th scope="row">4</th>
                           <td>Desarrollo y Presentaciones</td>
+                          <td>
+                            <ul className="list-group">
+                              <li className="list-item">-Validación</li>
+                              <li className="list-item">-Observaciones y Posibles Correcciones</li>
+                              <li className="list-item">-Definición costo por modificaciones o caracteristicas no requeridas o visualizadas</li>
+                              <li className="list-item">-Definición de fechas para presentación de trabajo/modificaciones</li>
+                            </ul>
+                          </td>
+                          <td>$XXX</td>
+                        </tr>
+                        <tr>
+                          <th scope="row">4</th>
+                          <td>Entrega Final de Proyecto</td>
                           <td>
                             <ul className="list-group">
                               <li className="list-item">-Validación</li>
