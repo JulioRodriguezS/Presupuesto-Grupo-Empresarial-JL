@@ -1,23 +1,24 @@
 {
   "files": {
-    "main.css": "/Presupuesto-Grupo-Empresarial-JL/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/Presupuesto-Grupo-Empresarial-JL/static/js/main.18a0435a.chunk.js",
-    "main.js.map": "/Presupuesto-Grupo-Empresarial-JL/static/js/main.18a0435a.chunk.js.map",
-    "runtime-main.js": "/Presupuesto-Grupo-Empresarial-JL/static/js/runtime-main.ce0fa1f3.js",
-    "runtime-main.js.map": "/Presupuesto-Grupo-Empresarial-JL/static/js/runtime-main.ce0fa1f3.js.map",
-    "static/js/2.6e165d71.chunk.js": "/Presupuesto-Grupo-Empresarial-JL/static/js/2.6e165d71.chunk.js",
-    "static/js/2.6e165d71.chunk.js.map": "/Presupuesto-Grupo-Empresarial-JL/static/js/2.6e165d71.chunk.js.map",
-    "static/js/3.fe8b8003.chunk.js": "/Presupuesto-Grupo-Empresarial-JL/static/js/3.fe8b8003.chunk.js",
-    "static/js/3.fe8b8003.chunk.js.map": "/Presupuesto-Grupo-Empresarial-JL/static/js/3.fe8b8003.chunk.js.map",
+    "main.css": "/Presupuesto-Grupo-Empresarial-JL/static/css/main.3f53c5d1.chunk.css",
+    "main.js": "/Presupuesto-Grupo-Empresarial-JL/static/js/main.637921e1.chunk.js",
+    "main.js.map": "/Presupuesto-Grupo-Empresarial-JL/static/js/main.637921e1.chunk.js.map",
+    "runtime-main.js": "/Presupuesto-Grupo-Empresarial-JL/static/js/runtime-main.50230839.js",
+    "runtime-main.js.map": "/Presupuesto-Grupo-Empresarial-JL/static/js/runtime-main.50230839.js.map",
+    "static/js/2.a7058b53.chunk.js": "/Presupuesto-Grupo-Empresarial-JL/static/js/2.a7058b53.chunk.js",
+    "static/js/2.a7058b53.chunk.js.map": "/Presupuesto-Grupo-Empresarial-JL/static/js/2.a7058b53.chunk.js.map",
+    "static/js/3.3fa1e898.chunk.js": "/Presupuesto-Grupo-Empresarial-JL/static/js/3.3fa1e898.chunk.js",
+    "static/js/3.3fa1e898.chunk.js.map": "/Presupuesto-Grupo-Empresarial-JL/static/js/3.3fa1e898.chunk.js.map",
     "index.html": "/Presupuesto-Grupo-Empresarial-JL/index.html",
-    "static/css/main.9d5b29c0.chunk.css.map": "/Presupuesto-Grupo-Empresarial-JL/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.6e165d71.chunk.js.LICENSE.txt": "/Presupuesto-Grupo-Empresarial-JL/static/js/2.6e165d71.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/Presupuesto-Grupo-Empresarial-JL/static/media/logo.6ce24c58.svg"
+    "static/css/main.3f53c5d1.chunk.css.map": "/Presupuesto-Grupo-Empresarial-JL/static/css/main.3f53c5d1.chunk.css.map",
+    "static/js/2.a7058b53.chunk.js.LICENSE.txt": "/Presupuesto-Grupo-Empresarial-JL/static/js/2.a7058b53.chunk.js.LICENSE.txt",
+    "static/media/main.css": "/Presupuesto-Grupo-Empresarial-JL/static/media/Raleway-SemiBold.92cc605b.ttf",
+    "static/media/fontawesome.min.css": "/Presupuesto-Grupo-Empresarial-JL/static/media/fa-solid-900.d2c8b126.eot"
   },
   "entrypoints": [
-    "static/js/runtime-main.ce0fa1f3.js",
-    "static/js/2.6e165d71.chunk.js",
-    "static/css/main.9d5b29c0.chunk.css",
-    "static/js/main.18a0435a.chunk.js"
+    "static/js/runtime-main.50230839.js",
+    "static/js/2.a7058b53.chunk.js",
+    "static/css/main.3f53c5d1.chunk.css",
+    "static/js/main.637921e1.chunk.js"
   ]
 }
