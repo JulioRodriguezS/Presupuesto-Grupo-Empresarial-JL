@@ -5,7 +5,7 @@ function App() {
   return(            
       <div className="container mt-4">
         <div className="row">
-        <div className="card mx-auto-0 mt-4 bg-dark text-light">
+        <div className="card col-sm-12 mx-auto-0 mt-4 bg-dark text-light">
               <div className="card-header text-center">
                 <h5>Presupuesto Grupo Empresarial JL</h5>
               </div>
