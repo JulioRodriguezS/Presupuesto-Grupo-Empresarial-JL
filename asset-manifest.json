@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Presupuesto-Grupo-Empresarial-JL/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/Presupuesto-Grupo-Empresarial-JL/static/js/main.18a0435a.chunk.js",
+    "main.js.map": "/Presupuesto-Grupo-Empresarial-JL/static/js/main.18a0435a.chunk.js.map",
+    "runtime-main.js": "/Presupuesto-Grupo-Empresarial-JL/static/js/runtime-main.ce0fa1f3.js",
+    "runtime-main.js.map": "/Presupuesto-Grupo-Empresarial-JL/static/js/runtime-main.ce0fa1f3.js.map",
+    "static/js/2.6e165d71.chunk.js": "/Presupuesto-Grupo-Empresarial-JL/static/js/2.6e165d71.chunk.js",
+    "static/js/2.6e165d71.chunk.js.map": "/Presupuesto-Grupo-Empresarial-JL/static/js/2.6e165d71.chunk.js.map",
+    "static/js/3.fe8b8003.chunk.js": "/Presupuesto-Grupo-Empresarial-JL/static/js/3.fe8b8003.chunk.js",
+    "static/js/3.fe8b8003.chunk.js.map": "/Presupuesto-Grupo-Empresarial-JL/static/js/3.fe8b8003.chunk.js.map",
+    "index.html": "/Presupuesto-Grupo-Empresarial-JL/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/Presupuesto-Grupo-Empresarial-JL/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.6e165d71.chunk.js.LICENSE.txt": "/Presupuesto-Grupo-Empresarial-JL/static/js/2.6e165d71.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Presupuesto-Grupo-Empresarial-JL/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ce0fa1f3.js",
+    "static/js/2.6e165d71.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.18a0435a.chunk.js"
+  ]
+}
