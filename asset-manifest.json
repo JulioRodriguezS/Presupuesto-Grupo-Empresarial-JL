@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Presupuesto-Grupo-Empresarial-JL/static/css/main.3f53c5d1.chunk.css",
-    "main.js": "/Presupuesto-Grupo-Empresarial-JL/static/js/main.f77ebc38.chunk.js",
-    "main.js.map": "/Presupuesto-Grupo-Empresarial-JL/static/js/main.f77ebc38.chunk.js.map",
+    "main.js": "/Presupuesto-Grupo-Empresarial-JL/static/js/main.b3e38455.chunk.js",
+    "main.js.map": "/Presupuesto-Grupo-Empresarial-JL/static/js/main.b3e38455.chunk.js.map",
     "runtime-main.js": "/Presupuesto-Grupo-Empresarial-JL/static/js/runtime-main.50230839.js",
     "runtime-main.js.map": "/Presupuesto-Grupo-Empresarial-JL/static/js/runtime-main.50230839.js.map",
     "static/js/2.a7058b53.chunk.js": "/Presupuesto-Grupo-Empresarial-JL/static/js/2.a7058b53.chunk.js",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.50230839.js",
     "static/js/2.a7058b53.chunk.js",
     "static/css/main.3f53c5d1.chunk.css",
-    "static/js/main.f77ebc38.chunk.js"
+    "static/js/main.b3e38455.chunk.js"
   ]
 }
