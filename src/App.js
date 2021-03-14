@@ -61,6 +61,18 @@ function App() {
                           </td>
                           <td>$XXX</td>
                         </tr>
+                        <tr>
+                          <th scope="row">3</th>
+                          <td>Desarrollo y Presentaciones</td>
+                          <td>
+                            <ul className="list-group">
+                              <li className="list-item">-Validación</li>
+                              <li className="list-item">-Observaciones y Posibles Correcciones</li>
+                              <li className="list-item">-Definición de fechas para presentación de trabajo/modificaciones</li>
+                            </ul>
+                          </td>
+                          <td>$XXX</td>
+                        </tr>
                       </tbody>
                     </table>
                   </div>
