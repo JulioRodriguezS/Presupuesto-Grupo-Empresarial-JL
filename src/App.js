@@ -18,7 +18,6 @@ function App() {
                           <th scope="col">#</th>
                           <th scope="col">Descripcion</th>
                           <th scope="col">Caracteristicas</th>
-                          <th scope="col">Precio</th>
                         </tr>
                       </thead>
                       <tbody>
@@ -35,7 +34,6 @@ function App() {
                               <li className="list-item">-Definición de fechas para presentación de trabajo/modificaciones</li>
                             </ul>
                           </td>
-                          <td>$XXX</td>
                         </tr>
                         <tr>
                           <th scope="row">2</th>
@@ -48,11 +46,10 @@ function App() {
                               <li className="list-item">*Despues de la planeación inicial, toda caracteristica adicional y no visualizada en el presupuesto tendrá un costo adicional</li>
                             </ul>
                           </td>
-                          <td>$XXX</td>
                         </tr>
                         <tr>
                           <th scope="row">3</th>
-                          <td>Maquetado/Presentación de Diseño</td>
+                          <td>Diseño de Mookups</td>
                           <td>
                             <ul className="list-group">
                               <li className="list-item">-Validación</li>
@@ -61,39 +58,15 @@ function App() {
                               <li className="list-item">-Definición de fechas para presentación de trabajo/modificaciones</li>
                             </ul>
                           </td>
-                          <td>$XXX</td>
-                        </tr>
-                        <tr>
-                          <th scope="row">4</th>
-                          <td>Desarrollo y Presentaciones</td>
-                          <td>
-                            <ul className="list-group">
-                              <li className="list-item">-Validación</li>
-                              <li className="list-item">-Observaciones y Posibles Correcciones</li>
-                              <li className="list-item">-Definición costo por modificaciones o caracteristicas no requeridas o visualizadas</li>
-                              <li className="list-item">-Definición de fechas para presentación de trabajo/modificaciones</li>
-                            </ul>
-                          </td>
-                          <td>$XXX</td>
-                        </tr>
-                        <tr>
-                          <th scope="row">5</th>
-                          <td>Entrega Final de Proyecto</td>
-                          <td>
-                            <ul className="list-group">
-                              <li className="list-item">-Validación</li>
-                              <li className="list-item">-Observaciones y Posibles Correcciones</li>
-                              <li className="list-item">-Definición de fechas para presentación de trabajo/modificaciones</li>
-                            </ul>
-                          </td>
-                          <td>$XXX</td>
                         </tr>
                       </tbody>
                     </table>
                   </div>
                 </div>
                 <div className="card-footer">
-                  <blockquote><em>*Presupuesto Valido al 30 de Marzo 2021 <br/>
+                  <blockquote><em>
+                  *Presupuesto Valido al 30 de Marzo 2021 <br/>
+                    *Precio por hora: $250 MXN <br/>
                     *Despues de la fecha la cantidad podría variar</em>
                   </blockquote>
                 </div>
