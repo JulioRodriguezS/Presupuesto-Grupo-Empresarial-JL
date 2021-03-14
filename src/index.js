@@ -4,6 +4,12 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
+import './css/fontawesome.min.css';
+import './css/bootstrap.min.css';
+import './css/templatemo-style.css';
+import './css/main.css';
+import './css/util.css';
+
 ReactDOM.render(
   <React.StrictMode>
     <App />
